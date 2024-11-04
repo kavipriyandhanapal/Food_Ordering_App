@@ -1,0 +1,62 @@
+.Header {
+  border: solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.Logo {
+  width: 110px;
+  height: 90px;
+}
+
+.Navitem > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.Navitem > ul > li {
+  margin: 10px;
+  padding: 10px 30px;
+  font-size: 19px;
+}
+
+.RestroCard {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.Rescard {
+  width: 220px;
+  height: 410px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.Rescard:hover {
+  cursor: pointer;
+  border: 1px solid #000;
+}
+
+.filter {
+  padding: 10px;
+  display: flex;
+}
+
+.MeghanaImg {
+  width: 100%;
+  height: 40%;
+}
+
+.Login {
+  cursor: pointer;
+  height: 50px;
+  margin-right: 10px;
+  padding: 0 20px;
+}
+
+.user-card {
+  border: 1px solid #000;
+  margin: 5px 0;
+  padding: 10px;
+}
+/*# sourceMappingURL=index.61d3354a.css.map */
